@@ -86,5 +86,5 @@ Citing appropriate sources, your report must answer the following questions:
 5. What can a project manager do to keep the project team motivated?
 6. Describe any relationship between leadership style and team motivation.
 7. Describe things a project manager can do to keep themselves motivated when they are managing a troubled project?
-8. Which management style do you believe best describes the style your team has adopted in its approach to this Assignment 2. Explain why.
+8. **Which management style do you believe best describes the style your team has adopted in its approach to this Assignment 2. Explain why.**
 9. If a team is operating under a laissez-faire management style and is not meeting project milestones, what management style(s) could the team leader now adopt to rescue the project? What impact might the transition to the new management style have on team motivation?
